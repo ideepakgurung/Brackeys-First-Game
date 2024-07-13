@@ -514,6 +514,9 @@ position = Vector2(62, -54)
 [node name="Platform" parent="Platforms" instance=ExtResource("3_bgmgl")]
 position = Vector2(62, -29)
 
+[node name="Platform3" parent="Platforms" instance=ExtResource("3_bgmgl")]
+position = Vector2(62, -69)
+
 [node name="Platform2" parent="Platforms" instance=ExtResource("3_bgmgl")]
 position = Vector2(272, -12)
 
